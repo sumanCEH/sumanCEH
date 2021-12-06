@@ -1,4 +1,4 @@
-# <p align="center">️ Hola!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px"> Welcome Sandip Kedia's Github Profile 💻😎 </p>
+# <p align="center">️ Hola!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px"> Welcome Suman Sarkar Github Profile 💻😎 </p>
 <h3 align="center">I'm a Fullstack developer from India🇮🇳</h3>
 
 </br>
@@ -6,9 +6,10 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'v experinced in **MEAN Stack & Ionic**.
-- I'm currently learning  **MERN Stack & React Native**.
-- I always like working in 🐧️**Linux** Environment.
+- I'm **Certified Ethical Hacker**.
+- I'v experiences in **Frontend Developement**.
+- I'm currently learning  **Python**.
+- I always like working in 🐧️**Linux/Windows** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 </br>
@@ -41,10 +42,10 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  </br>
  <p align="center">
-  <a href="https://github.com/sandipkedia">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=sandipkedia&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/sumanCEH">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=sumanCEH&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/sandipkedia/github-readme-stats">
+  <a href="https://github.com/sumanCEH/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
@@ -55,7 +56,7 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=sandipkedia&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=sumanCEH&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
@@ -65,7 +66,7 @@
  <!-- <summary>⚡ <b>Recent Github Activity</b></summary> -->
 
 <!--START_SECTION:activity-->
-<!--"https://yoursandipkedia.000webhostapp.com/
+<!--
 1. ❗️ Closed issue [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 2. 🗣 Commented on [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
@@ -93,10 +94,10 @@
 
 <!-- <p align="center">
 
-
+<!-- 
 <a href="https://twitter.com/TheSandY15?s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sandipkedia" height="30" width="40" /></a>
 <a href="http://www.linkedin.com/in/sandip-kedia-aa1341196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sandipkedia" height="30" width="40" /></a>
-<a href="mailto:karunayak1711998@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sandipkedia1711998@gmail.com" height="30" width="40" /></a>
+<a href="mailto:karunayak1711998@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sandipkedia1711998@gmail.com" height="30" width="40" /></a> -->
 
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40"  />
   <img align="center" style="margin: 10px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"  />
