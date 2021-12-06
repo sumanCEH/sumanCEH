@@ -92,34 +92,3 @@
 </details>
 
 
-<!-- <p align="center">
-
-<!-- 
-<a href="https://twitter.com/TheSandY15?s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sandipkedia" height="30" width="40" /></a>
-<a href="http://www.linkedin.com/in/sandip-kedia-aa1341196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sandipkedia" height="30" width="40" /></a>
-<a href="mailto:karunayak1711998@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sandipkedia1711998@gmail.com" height="30" width="40" /></a> -->
-
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="40"  />
-  <img align="center" style="margin: 10px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"  />
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40"  />
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40"  />
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40"  />
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40"  />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40px"/>
-   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
-   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40"  />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" /> -->
-
-<!-- [<img src="https://img.shields.io/badge/LinkedIn-karthiknayak98-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Twitter-@KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
-[<img src="https://img.shields.io/badge/Stackoverflow-KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow] -->
-
-<!-- Links of Defnitions -->
-
-[linkedin]: http://www.linkedin.com/in/sandip-kedia-aa1341196
-[instagram]: https://www.instagram.com/bdwits_sandy?r=nametag
-[gmail]: mailto:sandipkedia1711998@gmail.com 'Lets connect through email'
-[github]: https://github.com/sandipkedia
-[twitter]: https://twitter.com/TheSandY15?s=08
