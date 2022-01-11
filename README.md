@@ -8,7 +8,7 @@
 
 - I'm **Certified Ethical Hacker**.
 - I'v experiences in **Frontend Developement**.
-- I'm currently learning  **Python**.
+- I'm currently learning  **Python** & **java** .
 - I always like working in 🐧️**Linux/Windows** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
