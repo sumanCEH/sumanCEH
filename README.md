@@ -1,5 +1,5 @@
 # <p align="center">️ Hola!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px"> Welcome Suman Sarkar Github Profile 💻😎 </p>
-<h3 align="center">I'm a Fullstack developer from India🇮🇳</h3>
+<h2 align="center">Technology is best when it brings people together</h2>
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
