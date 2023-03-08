@@ -6,9 +6,10 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm **Certified Ethical Hacker**.
-- I'v experiences in **Frontend Developement**.
-- I'm currently learning  **Python** & **java** .
+- I'v experiences in **JAVA BACKEND Developement**.
+- I'm  also **Certified Ethical Hacker**.
+- Also Familiar with **DEVOPS AND CLOUD**.
+- I'm currently learning  **JAVA** & **Python** .
 - I always like working in 🐧️**Linux/Windows** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
@@ -67,9 +68,9 @@
  </p>
 </details>
 
-<!--<details>
+<details>
  </br>
- <!-- <summary>⚡ <b>Recent Github Activity</b></summary> -->
+ <summary>⚡ <b>Recent Github Activity</b></summary> 
 
 
 
@@ -81,8 +82,8 @@
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b>Asus Vivobook S14 (i5)</li>
+  	    <li><b>OS:</b> windows 10</li>
+	    <li><b>Laptop: </b>HP i3 (i5)</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b>Linkedin and Twitter.</li>
