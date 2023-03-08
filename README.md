@@ -70,7 +70,7 @@
 
 <details>
  </br>
- <summary>⚡ <b>Recent Github Activity</b></summary> 
+  <summary>⚡ <b>Recent Github Activity</b></summary> 
 
 
 
